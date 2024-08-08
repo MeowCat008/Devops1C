@@ -153,8 +153,9 @@
 		<Metadata name="Catalog.РасчетныеСчетаКонтрагентов.ObjectModule" id="f9e4f68d-971a-4afc-b8d3-3a5efa171085.0" configVersion="d40147c789e47140b83aabde5c0fe57600000000"/>
 		<Metadata name="Catalog.Регионы" id="2ce6a72f-d84f-4911-b820-dada3614149e" configVersion="f21236635c82ce41b499b04b460e2e0400000000"/>
 		<Metadata name="Catalog.Регионы.Help" id="2ce6a72f-d84f-4911-b820-dada3614149e.1" configVersion="bfb98179e132334ea84a59a8dfdf259e00000000"/>
-		<Metadata name="Catalog.Реклама" id="caba006f-a25b-4d10-8b0e-3aeba02136d8" configVersion="b9792b6499de9448b0bed697f02b702400000000">
+		<Metadata name="Catalog.Реклама" id="caba006f-a25b-4d10-8b0e-3aeba02136d8" configVersion="eba0cb165c7f234a95a44c5b0941dbdd00000000">
 			<Metadata name="Catalog.Реклама.Attribute.За" id="101f275c-f2fe-4c95-9848-cfb84bc7cdb5"/>
+			<Metadata name="Catalog.Реклама.Attribute.Телефон" id="16814168-7f78-4126-bb99-0a8ca36c79da"/>
 			<Metadata name="Catalog.Реклама.Attribute.Обращайтесь" id="5e46bf98-f420-4ec5-a230-590ba790fe65"/>
 			<Metadata name="Catalog.Реклама.Attribute.Рекламой" id="f8eb5076-cdff-4275-ab7d-a43f832a6171"/>
 		</Metadata>
