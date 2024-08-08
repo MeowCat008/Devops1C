@@ -153,6 +153,11 @@
 		<Metadata name="Catalog.РасчетныеСчетаКонтрагентов.ObjectModule" id="f9e4f68d-971a-4afc-b8d3-3a5efa171085.0" configVersion="d40147c789e47140b83aabde5c0fe57600000000"/>
 		<Metadata name="Catalog.Регионы" id="2ce6a72f-d84f-4911-b820-dada3614149e" configVersion="f21236635c82ce41b499b04b460e2e0400000000"/>
 		<Metadata name="Catalog.Регионы.Help" id="2ce6a72f-d84f-4911-b820-dada3614149e.1" configVersion="bfb98179e132334ea84a59a8dfdf259e00000000"/>
+		<Metadata name="Catalog.Реклама" id="caba006f-a25b-4d10-8b0e-3aeba02136d8" configVersion="b9792b6499de9448b0bed697f02b702400000000">
+			<Metadata name="Catalog.Реклама.Attribute.За" id="101f275c-f2fe-4c95-9848-cfb84bc7cdb5"/>
+			<Metadata name="Catalog.Реклама.Attribute.Обращайтесь" id="5e46bf98-f420-4ec5-a230-590ba790fe65"/>
+			<Metadata name="Catalog.Реклама.Attribute.Рекламой" id="f8eb5076-cdff-4275-ab7d-a43f832a6171"/>
+		</Metadata>
 		<Metadata name="Catalog.Склады" id="60a6f9a9-2886-4126-8867-57019f80c8c2" configVersion="15201bf910d2e540b46b5f03ae98779500000000">
 			<Metadata name="Catalog.Склады.Attribute.НеИспользовать" id="288a5829-afa5-43f8-b4af-55ef922cce16"/>
 		</Metadata>
@@ -358,7 +363,7 @@
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows32.Template" id="a0478cfc-4d22-451f-b62a-66e247ce4c49.0" configVersion="608d4d31c3a19b4d95b387d4d690084900000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d" configVersion="e50158c4d76d2b40afdb79d03006d64b00000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64.Template" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d.0" configVersion="589c98b153119a498adeef17ce1b570400000000"/>
-		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="cb4a56112a994644ab73799c724a987100000000"/>
+		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="dbb140a020d63e4db8456fb1ca73aded00000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.ClientApplicationInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.b" configVersion="30160f9ecb907042a37474f67e1e0c7500000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.CommandInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.a" configVersion="02a5ba19f8fa814aa137cd4db607618800000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.Help" id="71dad3e5-411e-4faa-9358-8eccdce47784.3" configVersion="1a46391bf3b12e4a85181298661b9b8300000000"/>
@@ -878,7 +883,7 @@
 		<Metadata name="StyleItem.ЦветТекстаОшибочногоСостояния" id="5eeca298-8774-4602-98b3-9148079f6c48" configVersion="9ffb7aaba44263479971fcdf116232ed00000000"/>
 		<Metadata name="StyleItem.ЦветТекстаСущественныхИзмененийДанных" id="b3549729-009c-452e-82e6-71a4b45f0880" configVersion="ea7c6d116c1f054cb1d01ce758f1734300000000"/>
 		<Metadata name="StyleItem.ШрифтВажнойИнформации" id="a3d51615-22f5-496f-8b2f-e09acb91986f" configVersion="d5e0ac4e8ed9a145bade4a269ad7e48800000000"/>
-		<Metadata name="Subsystem.Закупки" id="f48ea467-ed8d-43d0-a9e7-77c8917d642d" configVersion="9d74fcbd2f76df4da6187dbbc545f87b00000000"/>
+		<Metadata name="Subsystem.Закупки" id="f48ea467-ed8d-43d0-a9e7-77c8917d642d" configVersion="4f248d3c7d971e4faabab87d91cb226e00000000"/>
 		<Metadata name="Subsystem.Закупки.CommandInterface" id="f48ea467-ed8d-43d0-a9e7-77c8917d642d.1" configVersion="e2616c3167dcb94c9ec77fbd483f4f9c00000000"/>
 		<Metadata name="Subsystem.Предприятие" id="0b8e3358-2a9d-4692-a55d-c2f776d98083" configVersion="828ae3bf0ced7a47a0b03f0ad6542b4c00000000"/>
 		<Metadata name="Subsystem.Предприятие.CommandInterface" id="0b8e3358-2a9d-4692-a55d-c2f776d98083.1" configVersion="95b2d1e5a346dd4ab4cf87d007b93cde00000000"/>
